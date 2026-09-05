@@ -71,7 +71,7 @@ Same server, same API — the multi-stage `Dockerfile` builds with Maven and run
 ## Project structure
 
 ```
-src/main/java/com/umutdogan/taskflow/
+src/main/java/com/umutdogan/ai/taskflow/
 ├── Task.java                  # the domain record
 ├── TaskService.java           # in-memory storage, no MCP awareness
 ├── TaskTools.java             # @McpTool / @McpResource — the only MCP-specific code

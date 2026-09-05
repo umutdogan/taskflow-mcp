@@ -1,4 +1,4 @@
-package com.umutdogan.taskflow;
+package com.umutdogan.ai.taskflow;
 
 import org.springframework.stereotype.Service;
 

@@ -11,9 +11,9 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.umutdogan</groupId>
+    <groupId>com.umutdogan.ai</groupId>
     <artifactId>taskflow-mcp</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <name>taskflow-mcp</name>
     <description>TaskFlow MCP server tutorial</description>
 

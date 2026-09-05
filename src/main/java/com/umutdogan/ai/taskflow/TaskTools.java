@@ -1,4 +1,4 @@
-package com.umutdogan.taskflow;
+package com.umutdogan.ai.taskflow;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.ai.mcp.annotation.McpResource;
